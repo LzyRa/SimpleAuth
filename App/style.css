@@ -1,0 +1,35 @@
+body {
+    background-color: #1d2630;
+}
+
+input {
+    width: 300px;
+}
+
+.container {
+    margin-top: 150px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.form-control {
+    border: 2px solid rgba(39, 41, 142, 0.1);
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.btn-submit {
+    margin-top: 20px;
+    background-color: #1933b7;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    opacity: 0.8;   
+}
+
+.btn-submit:hover {
+    background-color: #1d38c0;
+}
