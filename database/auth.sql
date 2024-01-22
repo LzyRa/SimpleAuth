@@ -4,7 +4,7 @@
 --
 -- Host: 127.0.0.1
 -- Generation Time: 22.01.2024 klo 11:14
--- Palvelimen versio: 10.4.25-MariaDB
+-- Server version: 10.4.25-MariaDB
 -- PHP Version: 8.1.10
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
@@ -24,7 +24,7 @@ SET time_zone = "+00:00";
 -- --------------------------------------------------------
 
 --
--- Rakenne taululle `login`
+-- Structure for table `login`
 --
 
 CREATE TABLE `login` (
@@ -33,7 +33,7 @@ CREATE TABLE `login` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
--- Vedos taulusta `login`
+-- Dumping data for table `login`
 --
 
 INSERT INTO `login` (`username`, `password`) VALUES
