@@ -17,6 +17,10 @@ A simple login page project with PHP and MySQL.
 1. Open `App/index.html` to access the login page.
 2. Enter valid credentials to log in.
 
+## Screenshots
+
+![Login Page](screenshots/loginpage.png)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
